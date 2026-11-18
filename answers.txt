@@ -1,0 +1,28 @@
+▶ CODE INSPECTION QUESTIONS
+profile.html:
+Page Background Color: Look at the body CSS selector. What property and hex color code set the background color of the whole page?
+
+background-color and #0f172a
+
+Job Title Color: Which class selector controls the style of the job title ("Engineer")? What color property changes its text color?
+
+.title controls the job title and color: changes it to #38bdf8
+
+Hover State: Look at .btn-connect:hover. What color does the button turn when you hover your mouse over it? Read a bit about pseudo-classes here.
+
+The background color turns into #0284c7 and the text on the button turns white. 
+
+
+
+event.html:
+Card Border Color: Inside the .event-card selector, which CSS property creates the 2px solid #ec4899 border around the card? What color is #ec4899?
+
+Border creates the "border" and ec4899 is a called a Pink 500
+
+Text Size: Look at the h1 rule. What property controls how big the heading text is, and what value is assigned to it?
+
+font-size controls how big the heading is and it is set to 1.8rem
+
+Rounded Corners: Which property is used inside .event-card to round the edges of the box by 20px?
+
+border radius
